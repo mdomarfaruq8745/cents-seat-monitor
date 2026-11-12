@@ -6,7 +6,7 @@
     "deadline": "20/11/2026",
     "date": "26/11/2026",
     "available": true,
-    "seats": 91
+    "seats": 88
   },
   "CENT@UNI|UNIVERSITA' DEGLI STUDI DI MESSINA|MESSINA|26/11/2026|20/11/2026": {
     "format": "CENT@UNI",
@@ -15,7 +15,7 @@
     "deadline": "20/11/2026",
     "date": "26/11/2026",
     "available": true,
-    "seats": 67
+    "seats": 66
   },
   "CENT@HOME|SAPIENZA UNIVERSITÀ DI ROMA|ROMA|26/11/2026|20/11/2026": {
     "format": "CENT@HOME",
@@ -69,7 +69,7 @@
     "deadline": "11/12/2026",
     "date": "17/12/2026",
     "available": true,
-    "seats": 65
+    "seats": 63
   },
   "CENT@HOME|SAPIENZA UNIVERSITÀ DI ROMA|ROMA|17/12/2026|11/12/2026": {
     "format": "CENT@HOME",
