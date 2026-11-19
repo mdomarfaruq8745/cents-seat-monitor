@@ -6,7 +6,7 @@
     "deadline": "20/11/2026",
     "date": "26/11/2026",
     "available": true,
-    "seats": 76
+    "seats": 73
   },
   "CENT@UNI|UNIVERSITA' DEGLI STUDI DI MESSINA|MESSINA|26/11/2026|20/11/2026": {
     "format": "CENT@UNI",
@@ -69,12 +69,21 @@
     "deadline": "11/12/2026",
     "date": "17/12/2026",
     "available": true,
-    "seats": 36
+    "seats": 35
   },
   "CENT@HOME|SAPIENZA UNIVERSITÀ DI ROMA|ROMA|17/12/2026|11/12/2026": {
     "format": "CENT@HOME",
     "university": "Sapienza Università di Roma",
     "city": "ROMA",
+    "deadline": "11/12/2026",
+    "date": "17/12/2026",
+    "available": false,
+    "seats": 0
+  },
+  "CENT@HOME|POLITECNICO DI MILANO|MILANO|17/12/2026|11/12/2026": {
+    "format": "CENT@HOME",
+    "university": "Politecnico di Milano",
+    "city": "MILANO",
     "deadline": "11/12/2026",
     "date": "17/12/2026",
     "available": false,
