@@ -5,8 +5,8 @@
     "city": "TRIESTE",
     "deadline": "20/11/2026",
     "date": "26/11/2026",
-    "available": true,
-    "seats": 71
+    "available": false,
+    "seats": 0
   },
   "CENT@UNI|UNIVERSITA' DEGLI STUDI DI MESSINA|MESSINA|26/11/2026|20/11/2026": {
     "format": "CENT@UNI",
@@ -14,8 +14,8 @@
     "city": "MESSINA",
     "deadline": "20/11/2026",
     "date": "26/11/2026",
-    "available": true,
-    "seats": 62
+    "available": false,
+    "seats": 0
   },
   "CENT@HOME|SAPIENZA UNIVERSITÀ DI ROMA|ROMA|26/11/2026|20/11/2026": {
     "format": "CENT@HOME",
