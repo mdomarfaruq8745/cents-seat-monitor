@@ -78,7 +78,7 @@
     "deadline": "11/12/2026",
     "date": "17/12/2026",
     "available": true,
-    "seats": 15
+    "seats": 13
   },
   "CENT@HOME|SAPIENZA UNIVERSITÀ DI ROMA|ROMA|17/12/2026|11/12/2026": {
     "format": "CENT@HOME",
@@ -95,6 +95,15 @@
     "city": "MILANO",
     "deadline": "11/12/2026",
     "date": "17/12/2026",
+    "available": false,
+    "seats": 0
+  },
+  "CENT@HOME|SAPIENZA UNIVERSITÀ DI ROMA|ROMA|12/01/2027|06/01/2027": {
+    "format": "CENT@HOME",
+    "university": "Sapienza Università di Roma",
+    "city": "ROMA",
+    "deadline": "06/01/2027",
+    "date": "12/01/2027",
     "available": false,
     "seats": 0
   },
